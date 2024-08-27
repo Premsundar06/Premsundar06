@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prem</h1>
+<h1 align="center">Hi I'm Prem</h1>
 <h3 align="center">A passionate Full Stack developer and DevOps enthusiast</h3>
 
 - 📫 How to reach me **premsundar.hvs2020@gmail.com**
